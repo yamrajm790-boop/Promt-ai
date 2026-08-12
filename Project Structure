@@ -1,0 +1,7 @@
+[Frontend - React + Vite + Tailwind]  →  [Backend - Express + TypeScript]  →  [Groq API]
+         |                                        |
+         | (VITE_API_URL)                          | (GROQ_API_KEY)
+         |                                        |
+    Deployed on Vercel                     Deployed on Render
+         |                                        |
+         └───────────── PostgreSQL (Supabase/Neon) ┘
